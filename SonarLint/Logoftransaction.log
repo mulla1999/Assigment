@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-09-08T09:37:46.023933200Z</date>
+  <millis>1662629866023</millis>
+  <nanos>933200</nanos>
+  <sequence>0</sequence>
+  <logger>com.te.logger</logger>
+  <level>FINE</level>
+  <class>logger.PhonePay</class>
+  <method>sendMoney</method>
+  <thread>1</thread>
+  <message>The transaction is succesfull, you paid Amir 700.0</message>
+</record>
+<record>
+  <date>2022-09-08T09:37:46.033923500Z</date>
+  <millis>1662629866033</millis>
+  <nanos>923500</nanos>
+  <sequence>1</sequence>
+  <logger>com.te.logger</logger>
+  <level>FINE</level>
+  <class>logger.Process</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Program Completed</message>
+</record>
+</log>

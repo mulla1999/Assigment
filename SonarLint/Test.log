@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-09-07T11:57:58.065897300Z</date>
+  <millis>1662551878065</millis>
+  <nanos>897300</nanos>
+  <sequence>0</sequence>
+  <logger>logger.Test</logger>
+  <level>SEVERE</level>
+  <class>logger.Test</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>I am Sever</message>
+</record>
+<record>
+  <date>2022-09-07T11:57:58.117485500Z</date>
+  <millis>1662551878117</millis>
+  <nanos>485500</nanos>
+  <sequence>1</sequence>
+  <logger>logger.Test</logger>
+  <level>WARNING</level>
+  <class>logger.Test</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>I am Warning</message>
+</record>
+<record>
+  <date>2022-09-07T11:57:58.118457500Z</date>
+  <millis>1662551878118</millis>
+  <nanos>457500</nanos>
+  <sequence>2</sequence>
+  <logger>logger.Test</logger>
+  <level>CONFIG</level>
+  <class>logger.Test</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>I am Config</message>
+</record>
+<record>
+  <date>2022-09-07T11:57:58.118457500Z</date>
+  <millis>1662551878118</millis>
+  <nanos>457500</nanos>
+  <sequence>3</sequence>
+  <logger>logger.Test</logger>
+  <level>FINE</level>
+  <class>logger.Test</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>I am Fine</message>
+</record>
+<record>
+  <date>2022-09-07T11:57:58.119453Z</date>
+  <millis>1662551878119</millis>
+  <nanos>453000</nanos>
+  <sequence>4</sequence>
+  <logger>logger.Test</logger>
+  <level>FINEST</level>
+  <class>logger.Test</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>I am Finest</message>
+</record>
+<record>
+  <date>2022-09-07T11:57:58.119453Z</date>
+  <millis>1662551878119</millis>
+  <nanos>453000</nanos>
+  <sequence>5</sequence>
+  <logger>logger.Test</logger>
+  <level>FINER</level>
+  <class>logger.Test</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>I am Finer</message>
+</record>
+</log>
